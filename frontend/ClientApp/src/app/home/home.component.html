@@ -1,0 +1,28 @@
+<div *ngIf="shops!=null;else no" ></div>
+        <div class="row"  >
+        <div class="mt-1 col-sm-12 col-md-3 align-items-stretch" *ngFor="let shop of shops">
+            <div class="card" >
+                <div class="card-body" >
+                    
+                    <h5 class="card-title ">{{shop.name}}</h5>
+                    <div class="card-text">
+                       <img src={{shop.image}} height="200px" width="200px" >
+                    </div>
+                    <div>
+                        {{shop.description}}
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <ng-template #no>
+            <p> Welcome Admin</p>
+            <div class="card" style="width: 18rem;">
+              <img src="https://www.stickpng.com/assets/images/585e4bf3cb11b227491c339a.png"  class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">{{roles}}</p>
+              </div>
+            </div>
+            </ng-template>
+
+

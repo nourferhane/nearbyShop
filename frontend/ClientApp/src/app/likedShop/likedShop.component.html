@@ -1,0 +1,23 @@
+
+   <div class="row"  >
+    <div class="mt-1 col-sm-12 col-md-3" *ngFor="let shop of shops">
+        <div class="card" >
+            <div class="card-body" >
+                
+                <h5 class="card-title ">{{shop.name}}</h5>
+                <div class="card-text">
+                   <img src={{shop.image}} height="200px" width="200px" >
+                </div>
+                <div>
+                    {{shop.description}}
+                </div>
+                <div >
+                  <button type="button" class="btn btn-danger float-right fas fa-thumbs-down">
+                        Dislike
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

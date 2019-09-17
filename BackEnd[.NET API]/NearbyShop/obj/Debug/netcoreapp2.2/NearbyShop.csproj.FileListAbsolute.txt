@@ -1,0 +1,14 @@
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\bin\Debug\netcoreapp2.2\NearbyShop.deps.json
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\bin\Debug\netcoreapp2.2\NearbyShop.runtimeconfig.json
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\bin\Debug\netcoreapp2.2\NearbyShop.runtimeconfig.dev.json
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\bin\Debug\netcoreapp2.2\NearbyShop.dll
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.csprojAssemblyReference.cache
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.csproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.RazorAssemblyInfo.cache
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.RazorAssemblyInfo.cs
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.AssemblyInfoInputs.cache
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.AssemblyInfo.cs
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.RazorTargetAssemblyInfo.cache
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\bin\Debug\netcoreapp2.2\NearbyShop.pdb
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.dll
+C:\Users\Nour\source\repos\NearbyShop\NearbyShop\obj\Debug\netcoreapp2.2\NearbyShop.pdb
