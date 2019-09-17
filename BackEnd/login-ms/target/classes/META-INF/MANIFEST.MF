@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nour
+Build-Jdk: 12.0.2
+Implementation-Title: SpringBootJwtAuthentication
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.ferhane.jwtauthentication
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/nearbyshop-loginmicroservice
+Created-By: Maven Integration for Eclipse
+
